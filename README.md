@@ -1,5 +1,6 @@
 <h1>Hi There, I'm Furkan</h1>
 
+- 🌱 I’m currently learning **.Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
